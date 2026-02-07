@@ -1,6 +1,6 @@
 # FunctionEncoder for OC
 
-This repository contains the relevant code  to the paper:
+This repository contains the relevant code  to the paper: [Link](https://arxiv.org/pdf/2509.18404)
 
 
 
@@ -55,3 +55,13 @@ To evaluate pretrained models on new tasks, run the following scripts
 python eval_plotter_1_obs.py
 python eval_plotter_2_obs.py
 ```
+
+## Dependencies (What I Used)
+* **FunctionEncoder** (==0.1.1)
+* **PyTorch** (==2.8.0)
+* **NumPy** (==1.26.4)
+* **Scipy** (==1.16.3)
+* **tqdm** (==4.67.2)
+* **matplotlib** (==3.10.0)
+
+
